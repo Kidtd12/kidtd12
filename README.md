@@ -1,65 +1,18 @@
 <h1 align="center">Hi 👋, I'm 👩‍💻 Kidist Tadesse</h1>
-<h3 align="center" style="color: #888;">Front-End Developer | JavaScript • React • UI/UX</h3>
----
+<h3 align="center">A passionate frontend developer</h3>
 
-### 🚀 Growth 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kidtd12&label=Profile%20views&color=0e75b6&style=flat" alt="kidtd12" /> </p>
 
-> 💡 *"I’m not perfect, just passionately curious — every bug I fix, every feature I build, is part of my journey to becoming better than I was yesterday. Still learning. Still building. Always improving."*
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kidtd12" alt="kidtd12" /></a> </p>
 
----
-
-
-<h3 align="center">🌍 Passionate Frontend Developer and software enginerring student</h3>
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔭 I’m currently working on **cool JavaScript and React projects**
-- 🌱 I’m learning **TypeScript, and advanced React**
-- 👯 I’m looking to collaborate on **open-source frontend projects**
-- 💬 Ask me about **HTML, CSS, JS, React, and UI design**
-- 📫 How to reach me: **k44144202@gmail.com**
-- ⚡ Fun fact: I love coffee ☕, coding 🎯, and music 🎧
-
----
-
-### 🛠️ My Tech Stack:
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,nodejs" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kidist-tadesse-889851319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kidist-tadesse-889851319" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kidtd12&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidtd12&layout=compact&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kidtd12&show_icons=true&locale=en&layout=compact" alt="kidtd12" /></p>
 
----
-
-### 🧠 Latest Projects:
-- 🎮 [Bullet Chase Game](https://github.com/Kidtd12/Bullet-Chase)
-- 🌦️ [Pretty Weather App](https://github.com/Kidtd12/pretty-weather)
-- ♟️ [Chess Game](https://github.com/Kidtd12/chess.js)
-
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kidist-tadesse-889851319/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site-ff69b4?style=for-the-badge)]( https://kidtd12.github.io/My-portfolio/)  
-[![telegram](https://img.shields.io/badge/telegram-blueviolet?style=for-the-badge)](https://web.telegram.org/k/)
-
----
-
-### 🧰 Tools & IDEs:
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-
----
-
-#### 🎉 
-<h3>
-  🛠️ “I don’t know everything, but my console is always open.”
-</h3>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kidtd12&show_icons=true&locale=en" alt="kidtd12" /></p>
