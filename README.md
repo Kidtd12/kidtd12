@@ -57,9 +57,9 @@
 
 ---
 
-#### 🎉 Thanks for visiting my profile! Don't forget to ⭐️ my projects!
-<h3 class="beautiful-quote">
+#### 🎉 
+<h3>
   🛠️ “I don’t know everything, but my console is always open.”
 </h3>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
+
 
