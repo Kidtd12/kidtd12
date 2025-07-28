@@ -45,7 +45,7 @@
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kidist-tadesse-889851319/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Site-ff69b4?style=for-the-badge)]( https://kidtd12.github.io/My-portfolio/)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-blueviolet?style=for-the-badge)](https://your-resume-link.com)
+[![telegram](https://img.shields.io/badge/telegram-blueviolet?style=for-the-badge)](https://web.telegram.org/k/)
 
 ---
 
