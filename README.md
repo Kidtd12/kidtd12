@@ -6,7 +6,7 @@
 > 💡 *"I’m not perfect, just passionately curious — every bug I fix, every feature I build, is part of my journey to becoming better than I was yesterday. Still learning. Still building. Always improving."*
 
 ---
-> 🛠️ *"I don’t know everything, but my console is always open."*
+
 
 <h3 align="center">🌍 Passionate Frontend Developer and software enginerring student</h3>
 
@@ -57,4 +57,8 @@
 ---
 
 #### 🎉 Thanks for visiting my profile! Don't forget to ⭐️ my projects!
+<h3 class="beautiful-quote">
+  🛠️ “I don’t know everything, but my console is always open.”
+</h3>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
 
