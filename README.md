@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kidist Tadesse</h1>
 ---
 
-### 🚀 Growth Mindset
+### 🚀 Growth 
 
 > 💡 *"I’m not perfect, just passionately curious — every bug I fix, every feature I build, is part of my journey to becoming better than I was yesterday. Still learning. Still building. Always improving."*
 
 ---
+> 🛠️ *"I don’t know everything, but my console is always open."*
 
 <h3 align="center">🌍 Passionate Frontend Developer and software enginerring student</h3>
 
