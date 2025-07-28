@@ -33,5 +33,19 @@
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn]((https://www.linkedin.com/in/kidist-tadesse-889851319/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-ff69b4?style=for-the-badge)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kidist-tadesse-889851319)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Site-ff69b4?style=for-the-badge)]( https://kidtd12.github.io/My-portfolio/)  
+[![Resume](https://img.shields.io/badge/Resume-PDF-blueviolet?style=for-the-badge)](https://your-resume-link.com)
+
+---
+
+### 🧰 Tools & IDEs:
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+
+---
+
+#### 🎉 Thanks for visiting my profile! Don't forget to ⭐️ my projects!
+
