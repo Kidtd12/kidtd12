@@ -37,7 +37,7 @@
 
 ### 🧠 Latest Projects:
 - 🎮 [Bullet Chase Game](https://github.com/Kidtd12/Bullet-Chase)
-- 🌦️ [Pretty Weather App](https://github.com/Kidtd12/pretty-weather)
+- 🌦️ [Weather App](https://github.com/Kidtd12/pretty-weather)
 - ♟️ [Chess Game](https://github.com/Kidtd12/chess.js)
 
 ---
