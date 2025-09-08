@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on **open-source frontend projects**
 - 💬 Ask me about **HTML, CSS, JS, React, and UI design**
 - 📫 How to reach me: **k44144202@gmail.com**
-- ⚡ Fun fact: I love coffee ☕, coding 🎯, and music 🎧
+- ⚡ Fun fact: I love coffee ☕, coding 🎯, and music 
 
 ---
 
