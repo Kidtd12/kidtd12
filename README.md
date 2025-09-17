@@ -5,9 +5,6 @@
 
 
 
-
-
-
 <h3 align="center" style="color: #888;">Front-End Developer | JavaScript • React • UI/UX</h3>
 ---
 
