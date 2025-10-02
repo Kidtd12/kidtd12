@@ -2,7 +2,6 @@
 
 
 
-<h1 align="center">Hi 👋, I'm 👩‍💻 Kidist Tadesse</h1>
 
 
 
