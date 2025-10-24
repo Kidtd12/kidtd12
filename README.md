@@ -3,6 +3,8 @@
 <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" alt="Coding animation"/> </p>
 🌟 About Me
 
+🌟 About Me
+
 💡 “Code is like art — every line is a brushstroke toward innovation.”
 
 🎓 Software Engineering Student at Arba Minch University
