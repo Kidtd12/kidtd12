@@ -35,6 +35,13 @@
 🌦️ Weather App	React weather app powered by OpenWeather API with live search	View Repo
 📊 GitHub Analytics
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kidtd12&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kidtd12&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidtd12&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+
+
+## 📈 Graph Representation (Activity Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kidtd12&theme=react-dark&hide_border=true&area=true" />
+</p>
+
 🔗 Connect with Me
 <p align="center"> <a href="https://www.linkedin.com/in/kidist-tadesse-889851319/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://kidtd12.github.io/My-portfolio/"> <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://web.telegram.org/k/"> <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:k44144202@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ✨ Quote of the Day
