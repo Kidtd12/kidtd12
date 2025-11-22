@@ -42,7 +42,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kidtd12&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-🔗 Connect with Me
+🔗 Connect with Me.
 <p align="center"> <a href="https://www.linkedin.com/in/kidist-tadesse-889851319/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://kidtd12.github.io/My-portfolio/"> <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <a href="https://web.telegram.org/k/"> <img src="https://img.shields.io/badge/Telegram-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/> </a> <a href="mailto:k44144202@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ✨ Quote of the Day
 
