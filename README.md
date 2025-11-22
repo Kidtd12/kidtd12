@@ -2,7 +2,7 @@
 <h3 align="center" style="font-weight:600;">💻Building modern, scalable, and user-driven web applications.</h3>
 <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" alt="Coding animation"/> </p>
 🌟 About Me 
-
+🌟 About Me 
 
 💡 “Code is like art — every line is a brushstroke toward innovation.”
 
