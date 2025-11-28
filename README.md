@@ -1,6 +1,9 @@
 <!-- 💫 Ultimate GitHub Profile README for Kidist Tadesse -->
 
 <!-- 🎨 Animated Gradient Banner -->
+<!-- 🎨 Animated Gradient Banner -->
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Kidist%20Tadesse%20👩‍💻&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&fontSize=50&desc=Web%20Developer%20|%20Full%20Stack%20|%20React%20%7C%20UI/UX&descAlignY=60&descAlign=50" alt="Kidist Tadesse Banner"/>
 </p>
