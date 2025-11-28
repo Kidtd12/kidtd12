@@ -1,7 +1,6 @@
 <!-- 💫 Ultimate GitHub Profile README for Kidist Tadesse -->
 
 <!-- 🎨 Animated Gradient Banner -->
-<!-- 🎨 Animated Gradient Banner -->
 
 
 <p align="center">
