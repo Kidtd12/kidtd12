@@ -3,7 +3,6 @@
 <!-- 🎨 Animated Gradient Banner -->
 
 
-<!-- 🎨 Animated Gradient Banner -->
 
 
 <p align="center">
