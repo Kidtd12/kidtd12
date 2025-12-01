@@ -2,7 +2,6 @@
 
 <!-- 🎨 Animated Gradient Banner -->
 
-<!-- 🎨 Animated Gradient Banner -->
 
 
 
