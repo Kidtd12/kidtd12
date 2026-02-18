@@ -1,107 +1,114 @@
-<!-- 🌊 Animated Header Banner -->
+<!-- 🌌 Futuristic Animated AI Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Kidist%20Tadesse%20👩‍💻&fontAlign=50&fontAlignY=40&color=0:8A2BE2,100:FF69B4&fontColor=ffffff&fontSize=55&desc=Full%20Stack%20Developer%20|%20React%20|%20MERN%20|%20UI/UX%20Designer&descAlignY=65&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Kidist%20Tadesse%20👩‍💻&fontAlign=50&fontAlignY=40&color=0:0F2027,50:8A2BE2,100:FF69B4&fontColor=ffffff&fontSize=55&desc=AI%20Focused%20Full%20Stack%20Developer&descAlignY=65&descAlign=50" />
 </p>
 
-<h2 align="center">🚀 Building Digital Experiences That Feel Alive</h2>
-
+<!-- 🔥 Ultra Premium Typing Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kidtd12&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Kidtd12?style=for-the-badge&color=FF69B4" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+MERN+Developer;🤖+Future+AI+Engineer;🎨+Creative+UI%2FUX+Designer;⚡+Building+Scalable+Modern+Web+Apps" />
+</p>
+
+---
+
+<!-- 👀 Profile Visitors Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kidtd12&label=👀%20Profile%20Visitors&color=8A2BE2&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Kidtd12?label=Followers&style=for-the-badge&color=FF69B4" />
   <img src="https://img.shields.io/github/stars/Kidtd12?affiliations=OWNER&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 🧠 AI Developer Identity
 
-💡 *"Transforming ideas into interactive, scalable, and user-centered web applications."*
+> “I don’t just build websites. I engineer intelligent digital experiences.”
 
-🎓 Software Engineering Student – Arba Minch University  
-💻 Full-Stack Developer (MERN Stack)  
-🎨 UI/UX Enthusiast who loves animations & clean design  
-🚀 Passionate about performance optimization & modern web architecture  
-🌍 Open to internships & global collaboration  
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🚀 Built multiple full-stack production-ready apps  
-- 🎯 Designed responsive UI systems with Tailwind & modern CSS  
-- 🔥 Integrated REST APIs (YouTube, TMDB, OpenWeather, NewsAPI)  
-- 📈 Constant GitHub contributor & project builder  
-- 🌱 Continuous learner (Next.js, TypeScript, Advanced Backend)
+🎓 Software Engineering Student  
+🌍 Based in Ethiopia  
+🤖 Exploring AI + Web Integration  
+💻 MERN Stack Specialist  
+🎨 Advanced UI/UX & Motion Design Lover  
+🚀 Future Machine Learning Engineer  
 
 ---
 
-## 🧠 Technical Skills
+## 🏆 Elite Skills Matrix
 
-### 💻 Frontend
-React • Next.js • JavaScript • TypeScript • Tailwind • CSS3 • HTML5
+### ⚡ Frontend Intelligence
+React • Next.js • TypeScript • Tailwind • Advanced CSS Animations
 
-### ⚙️ Backend
-Node.js • Express.js • MongoDB • REST APIs • Firebase
+### 🔥 Backend Engineering
+Node.js • Express • MongoDB • REST APIs • Firebase
+
+### 🤖 AI Exploration
+Python Basics • AI Concepts • ML Curiosity • Future LLM Integration
 
 ### 🛠 Tools
-Git • GitHub • VS Code • Figma • Netlify • Vercel
+Git • GitHub • VS Code • Figma • Vercel • Netlify
 
 ---
 
 ## 💼 Professional Experience
 
-### 👩‍💻 Full-Stack Project Developer
-- Developed scalable MERN applications with authentication & admin dashboards  
-- Designed reusable React components & optimized performance  
-- Implemented secure API integrations & structured backend architecture  
-- Applied responsive design principles for cross-device compatibility  
+### 🚀 Full Stack Developer (Project-Based)
+- Architected scalable MERN applications
+- Designed optimized backend APIs
+- Implemented authentication & admin dashboards
+- Applied responsive & accessible UI systems
 
-### 🎨 UI/UX Designer
-- Created modern user interfaces using Figma  
-- Focused on accessibility, clean layouts & micro-interactions  
-- Improved user engagement with animation & visual storytelling  
-
----
-
-## 🚀 Featured Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| 🎬 YouTube Clone | React + YouTube API | Real-time video search & responsive player |
-| 🎥 Netflix Clone | React + TMDB | Dynamic movie browsing UI |
-| 🌦 Weather App | React + OpenWeather | Live search with API integration |
-| 📰 KBC-News | React + NewsAPI | Category-based news filtering |
-| 🍔 Food Delivery | MERN Stack | Full cart, order & admin system |
-| 🌍 Ge'ez Translator | Tailwind + JS | Voice-enabled translation app |
-| 🛒 E-Commerce Store | React + Firebase | Auth, cart & filtering system |
+### 🎨 Creative UI Engineer
+- Built engaging animated interfaces
+- Designed reusable component systems
+- Focused on performance & user interaction psychology
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Signature Projects
+
+| 🚀 Project | 💻 Stack | 🌟 Highlight |
+|------------|----------|--------------|
+| YouTube Clone | React + API | Live search & video rendering |
+| Netflix Clone | React + TMDB | Modern streaming UI |
+| KBC-News | React + NewsAPI | Dynamic category filtering |
+| Ge'ez Translator | Tailwind + JS | Voice-enabled multilingual app |
+| Food Delivery | MERN | Full e-commerce logic |
+| E-Commerce Store | React + Firebase | Auth + cart + filtering |
+
+---
+
+## 📊 Advanced GitHub Analytics
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kidtd12&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kidtd12&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kidtd12&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kidtd12&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidtd12&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kidtd12&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidtd12&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏅 GitHub Achievement Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kidtd12&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kidtd12&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kidtd12&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Dynamic Contribution Snake (MOVABLE)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -122,12 +129,12 @@ Git • GitHub • VS Code • Figma • Netlify • Vercel
 
 ---
 
-## ✨ Developer Philosophy
+## 💎 Developer Philosophy
 
-> "Great developers don’t just write code — they design experiences."
+> "The future belongs to those who build it with intelligence and imagination."
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:8A2BE2,100:FF69B4"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:0F2027,50:8A2BE2,100:FF69B4"/>
 </p>
