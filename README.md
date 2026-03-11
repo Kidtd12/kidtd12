@@ -57,18 +57,6 @@
 </p>
 
 ---
-## 💼 Featured Projects
-
-| 🎯 Project | 💡 Description | 🔗 Link |
-|-----------|----------------|---------|
-| **YouTube Clone** | A responsive video streaming web app using React + YouTube API | [View Repo](#) |
-| **Netflix Clone** | A movie streaming UI built with React + TMDB API | [View Repo](#) |
-| **Weather App** | React weather app powered by OpenWeather API with live search | [View Repo](#) |
-| **Portfolio Website** | Personal portfolio built with HTML, CSS, JS showcasing skills & projects | [View Repo](#) |
-| **Food Delivery App** | MERN-based food delivery system with cart, orders & admin panel | [View Repo](#) |
-| **News App (KBC-News)** | React news app with category filtering and NewsAPI integration | [View Repo](#) |
-| **Translation App (Ge'ez)** | Tailwind + JS multilingual translator with voice support | [View Repo](#) |
-| **E-Commerce Shop** | React + Firebase store with cart, auth & product filtering | [View Repo](#) |
 
 ---
 ## 📊 GitHub Analytics
