@@ -77,6 +77,23 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kidtd12&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+## 📊 More GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kidtd12&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kidtd12&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kidtd12&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kidtd12&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kidtd12&theme=tokyonight&utcOffset=3" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidtd12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
